@@ -1,0 +1,18 @@
+table{
+    position: fixed;
+    top: 38%;
+    left: 23%;
+    font-size: 200%;
+    font-family: "Bookman Old Style";
+    color: black;
+    display: block;
+}
+h2{
+    position: fixed;
+    top: 20%;
+    left: 39%;
+    font-size: 350%;
+    font-family: "Bookman Old Style";
+    color: black;
+    text-shadow: 5px 5px #808080;
+}
