@@ -43,4 +43,48 @@ li a:hover{
     border-radius: 15px;
     text-decoration: none;
 }
+.Onas{
+    position: fixed;
+    top: 17%;
+    left: 45%;
+    font-size: 350%;
+    font-family: "Bookman Old Style";
+    color: white;
+    text-shadow: 5px 5px #808080;
+}
+.pismo{
+    position: fixed;
+    top: 40%;
+    left: 5%;
+    right: 80%;
+    font-size: 143%;
+    font-family: "Bookman Old Style";
+    color: black;
+    display: inline-block;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.nadpis1{
+    position: fixed;
+    top: 35%;
+    left: 5%;
+    font-family: "Lucida Sans Unicode";
+    color: black;
+    font-size: 100%;
+    background-color: lightgray;
+    padding-right: 100px;
+    padding-left: 74px ;
+}
+.obr{
+    position: fixed;
+    top: 80%;
+    left: 27%;
+}
+i{
+    font-size: 250%;
+    color: white;
+}
 
