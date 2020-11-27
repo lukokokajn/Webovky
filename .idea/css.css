@@ -52,7 +52,7 @@ li a:hover{
     color: white;
     text-shadow: 5px 5px #808080;
 }
-.pismo{
+.pismo1{
     position: fixed;
     top: 40%;
     left: 5%;
@@ -62,29 +62,83 @@ li a:hover{
     color: black;
     display: inline-block;
     background-color: white;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-top: -50px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 34px;
 }
 .nadpis1{
-    position: fixed;
-    top: 35%;
-    left: 5%;
-    font-family: "Lucida Sans Unicode";
-    color: black;
-    font-size: 100%;
-    background-color: lightgray;
-    padding-right: 100px;
-    padding-left: 74px ;
+    top: 40%;
+    left: 30%;
 }
 .obr{
     position: fixed;
-    top: 80%;
-    left: 27%;
+    top: 90%;
+    left: 5%;
 }
 i{
     font-size: 250%;
     color: white;
 }
+.napis2 {
+    top: 40%;
+    left: 30%;
+
+}
+.pismo2{
+    position: fixed;
+    top: 40%;
+    left: 25%;
+    right: 60%;
+    font-size: 143%;
+    font-family: "Bookman Old Style";
+    color: black;
+    display: inline-block;
+    background-color: white;
+    padding-top: -50px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 34px;
+}
+.pismo3{
+    position: fixed;
+    top: 40%;
+    left: 57%;
+    right: 28%;
+    font-size: 143%;
+    font-family: "Bookman Old Style";
+    color: black;
+    display: inline-block;
+    background-color: white;
+    padding-top: -50px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 34px;
+}
+.pismo4{
+    position: fixed;
+    top: 40%;
+    left: 77%;
+    right: 8%;
+    font-size: 143%;
+    font-family: "Bookman Old Style";
+    color: black;
+    display: inline-block;
+    background-color: white;
+    padding-top: -50px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 34px;
+}
+.obrmid{
+    position: fixed;
+    top: 35%;
+    left: 42%;
+    right: 50%;
+}
+
 

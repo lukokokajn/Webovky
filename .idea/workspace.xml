@@ -26,6 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -48,6 +49,16 @@
       <workItem from="1605005328406" duration="8013000" />
       <workItem from="1605253298920" duration="450000" />
       <workItem from="1605266565226" duration="5935000" />
+      <workItem from="1605704583486" duration="272000" />
+      <workItem from="1605869058133" duration="739000" />
+      <workItem from="1605873777925" duration="465000" />
+      <workItem from="1605899005577" duration="387000" />
+      <workItem from="1605949914562" duration="80000" />
+      <workItem from="1606472948816" duration="10974000" />
+      <workItem from="1606483941734" duration="1872000" />
+      <workItem from="1606485985383" duration="171000" />
+      <workItem from="1606486177082" duration="33000" />
+      <workItem from="1606486589312" duration="82000" />
     </task>
     <servers />
   </component>
@@ -59,5 +70,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="760" y="274" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1605005329625" />
+    <state x="1059" y="441" key="FileChooserDialogImpl" timestamp="1605949993801">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1059" y="441" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605949993801" />
+    <state x="662" y="383" key="new project wizard" timestamp="1605871959834">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="383" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1605871959834" />
   </component>
 </project>

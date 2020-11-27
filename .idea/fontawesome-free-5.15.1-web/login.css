@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+form {
+    display: inline-block;
+    padding: 20px;
+    background-color: lightyellow;
+    border-radius: 75px;
+    margin: 10%;
+    margin-left: -20%;
+}
+.login{
+    padding-top: 30px;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+.tlacitko {
+    border-radius: 40px;
+    border: 5px solid black;
+    padding: 50px 200px;
+    background-color: gold;
+    color: black;
+    cursor: pointer;
+}
+input {
+    padding: 35px 15px;
+    border: 10px solid #dddddd;
+    margin-top: 25px;
+}
+.remember{
+    font-size: 100%;
+    text-align: left;
+}
+.username{
+    padding: 50px 200px;
+}
+.password{
+    padding: 50px 200px;
+}
+li {
+    width: auto;
+    height: auto;
+    max-height: 30px;
+    float: left;
+    list-style: none;
+}
+li a{
+    width: auto;
+    height: auto;
+    padding: 7px 15px;
+    border-radius: 7px;
+    margin-top: 15px;
+    margin-right: 15px;
+    font-size: 30px;
+    font-family: Arial;
+    color: #fff;
+    float: left;
+    text-decoration: none;
+}
+li a:hover{
+    background: goldenrod;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
